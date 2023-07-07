@@ -1,0 +1,18 @@
+.fl
+{
+
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content:space-evenly;
+    width:auto;
+    margin: auto;
+    line-height: 25px;
+    text-align: center;
+    font-size: 20px;
+}
+.al
+{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
